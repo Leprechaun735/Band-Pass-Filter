@@ -1,8 +1,7 @@
 # Band-Pass-Filter
 Custom PCB for a undisclosed work project
 
-Spans 3kHZ - ?
-
+Spans 3HZ - 30kHz
 
 <img width="3024" height="4032" alt="IMG_1154" src="https://github.com/user-attachments/assets/cb9dc471-deda-4c97-af2c-67f0664cef2b" />
 <img width="4032" height="3024" alt="IMG_1224" src="https://github.com/user-attachments/assets/acc9053e-6674-4f7a-9f57-b7d57a782865" />
