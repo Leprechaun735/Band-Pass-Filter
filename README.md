@@ -1,8 +1,7 @@
 # Band-Pass-Filter
 Custom PCB for a undisclosed work project
 
-helo
-
+Spans 3kHZ - ?
 
 
 <img width="3024" height="4032" alt="IMG_1154" src="https://github.com/user-attachments/assets/cb9dc471-deda-4c97-af2c-67f0664cef2b" />
@@ -11,8 +10,24 @@ helo
 <img width="4032" height="3024" alt="IMG_1212" src="https://github.com/user-attachments/assets/adc8eb30-c960-40e5-ba05-0e33479dd80b" />
 <img width="3024" height="4032" alt="IMG_1199" src="https://github.com/user-attachments/assets/3d05c7ed-f9b8-450b-a621-4aee187f1e89" />
 <img width="3024" height="4032" alt="IMG_1194" src="https://github.com/user-attachments/assets/1bc742ad-b30b-4e49-98ea-3f482318a2ad" />
-
-
 <img width="3024" height="4032" alt="IMG_1199" src="https://github.com/user-attachments/assets/2625b06b-0a36-4f88-b1b3-aad920f0ed06" />
 <img width="3024" height="4032" alt="IMG_1221" src="https://github.com/user-attachments/assets/104bede9-426e-416d-9363-569fd31284a3" />
 <img width="4032" height="3024" alt="IMG_1212" src="https://github.com/user-attachments/assets/cd84dc5a-0c1b-4535-b227-2c8d4bce2a1c" />
+
+Double Amp			
+Item	Value	Availibility in House	Website
+r1	10k	✔	https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700
+r2 	10k	✔	https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700
+r3	10k	✔	https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700
+r4	10k	✔	https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700
+c1	3.18uF	3nF and 3.3nF	https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1C335K080AC/2732911
+c2	100nF	15 or so left in the binder	https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KA8NNNC/3886664
+c3	636.19pF	680pF and 600pF	https://www.digikey.com/en/products/detail/walsin-technology-corporation/0603N621J500CT/9355037
+c4	3.18uF	3nF and 3.3nF	https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1C335K080AC/2732911
+c5	636.19pF	680pF and 600pF	https://www.digikey.com/en/products/detail/walsin-technology-corporation/0603N621J500CT/9355037
+opamp	opa2353EA/2k5		https://www.digikey.com/en/products/detail/texas-instruments/OPA2353EA-2K5/301205
+Vreg	ISL21080DIH310Z-TK		https://www.digikey.com/en/products/detail/renesas-electronics-corporation/ISL21080DIH310Z-TK/2551514
+3 Pin female	440054-3		https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/440054-3/2077940?gclsrc=aw.ds&&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=Pmax%20Shopping_Product_Passives%20Overstock&utm_term=&utm_content=&utm_id=go_cmp-21280451924_adg-_ad-__dev-c_ext-_prd-2077940_sig-Cj0KCQjwkZm_BhDrARIsAAEbX1EhFBccZbFxZDTRu8LmrCjyKEUlAtlgv-qAghXG6udLZwZ-RpiOnvsaAg_qEALw_wcB&gad_source=1&gclid=Cj0KCQjwkZm_BhDrARIsAAEbX1EhFBccZbFxZDTRu8LmrCjyKEUlAtlgv-qAghXG6udLZwZ-RpiOnvsaAg_qEALw_wcB
+3 Pin Male	440129-3		https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/440129-3/2077919
+Test pins	5012		https://www.mouser.com/ProductDetail/534-5012
+jumper Pins	GRPB021VWVN-RC		https://www.digikey.com/en/products/detail/sullins-connector-solutions/GRPB021VWVN-RC/1786438
